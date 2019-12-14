@@ -6,8 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d33cee8b-d2a3-4f06-a255-81f913636849" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+    <list default="true" id="d33cee8b-d2a3-4f06-a255-81f913636849" name="Default Changelist" comment="heroku config">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,7 +165,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576329381513</updated>
-      <workItem from="1576329384674" duration="16818000" />
+      <workItem from="1576329384674" duration="17146000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1576357227303</created>
@@ -182,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576357435110</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="heroku config">
+      <created>1576357876736</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576357876736</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,7 +197,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="travis config" />
-    <option name="LAST_COMMIT_MESSAGE" value="travis config" />
+    <MESSAGE value="heroku config" />
+    <option name="LAST_COMMIT_MESSAGE" value="heroku config" />
   </component>
   <component name="WindowStateProjectService">
     <state x="32" y="355" key="#Plugins" timestamp="1576331923754">
@@ -222,10 +229,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1229" y="425" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1576343456056" />
-    <state x="106" y="189" key="CommitChangelistDialog2" timestamp="1576357434575">
+    <state x="106" y="189" key="CommitChangelistDialog2" timestamp="1576357923560">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="106" y="189" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1576357434575" />
+    <state x="106" y="189" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1576357923560" />
     <state x="1116" y="260" key="FileChooserDialogImpl" timestamp="1576356946128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
