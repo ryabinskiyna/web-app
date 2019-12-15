@@ -7,8 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d33cee8b-d2a3-4f06-a255-81f913636849" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +162,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576329381513</updated>
       <workItem from="1576329384674" duration="18974000" />
-      <workItem from="1576398318376" duration="315000" />
+      <workItem from="1576398318376" duration="750000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1576357227303</created>
@@ -206,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576359514140</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="heroku config">
+      <created>1576398702542</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576398702542</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,10 +254,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1229" y="425" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1576343456056" />
-    <state x="106" y="189" key="CommitChangelistDialog2" timestamp="1576359513566">
+    <state x="106" y="189" key="CommitChangelistDialog2" timestamp="1576398701705">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="106" y="189" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1576359513566" />
+    <state x="106" y="189" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576398701705" />
     <state x="1116" y="260" key="FileChooserDialogImpl" timestamp="1576356946128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -307,14 +315,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="300" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1576356425075" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576359515782">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1576398704844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1576359515782" />
-    <state x="1061" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1576398319193">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576398704844" />
+    <state x="1061" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1576399289445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1061" y="340" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576398319193" />
+    <state x="1061" y="340" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576399289445" />
     <state x="991" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1576332058087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
